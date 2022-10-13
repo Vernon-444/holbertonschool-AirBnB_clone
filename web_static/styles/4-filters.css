@@ -1,17 +1,17 @@
 /**
-* === Filters Class Style ===
+* === Global Style ===
 */
 
-/* Filters Style */
+/* Filter Class Style */
 .filters {
     background-color: white;
     height: 70px;
     width: 100%;
-    border: 1px #DDDDDD;
+    border: 1px solid #DDDDDD;
     border-radius: 4px;
 }
 
-/* Button Style */
+/* Filter Button Style */
 .filters button {
     font-size: 18px;
     background-color: #FF5A5F;
@@ -26,7 +26,7 @@
     margin-top: 11px;
 }
 
-/* Search button hover opacity */
+/* Hover Button Opacity */
 .filters button:hover {
     opacity: 90%;
 }

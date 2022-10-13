@@ -4,17 +4,17 @@
 
 /* Body style */
 body {
+    margin: 0;
+    padding: 0;
     color: #484848;
-    font-family: 14px Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 /* Container Style */
 .container {
-    margin: 30px auto;
     max-width: 1000px;
-}
-
-/* Strong Style */
-strong {
-    font-weight: bold;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
